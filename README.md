@@ -15,7 +15,7 @@
 
 I've been developing stuff for a while. I'll fill this profile properly at some point, probably.  
 X86 & embedded ARM native. Graphics & gamedev, OS internals, networking & infosec. Fullstack & SaaS @ web.  
-Freelancer, available for hire. Most of my work is private.
+Freelancer, available for hire. Currently server & networking lead on a multiplayer card game.
 
 ## Public Statistics
 
